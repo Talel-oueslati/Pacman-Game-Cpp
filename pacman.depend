@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701193161 source:c:\users\talel\onedrive\desktop\education\language c\projects\pacman\main.cpp
+	<graphics.h>
+	<conio.h>
+
